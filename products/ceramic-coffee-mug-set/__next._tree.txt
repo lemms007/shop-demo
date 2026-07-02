@@ -2,4 +2,4 @@
 :HL["https://picsum.photos/seed/mug1/400/400","image"]
 :HL["https://picsum.photos/seed/mug2/400/400","image"]
 :HL["https://picsum.photos/seed/mug3/400/400","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"ceramic-coffee-mug-set","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ztYJhxbLdoU66K8hxei3C"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"products","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"ceramic-coffee-mug-set","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"g6lQDarVGaqWayQuT7C_i"}
