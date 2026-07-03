@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full antialiased">
-      <head><!-- Meta Pixel Code -->
+      <head>
         <script>
         !function(f,b,e,v,n,t,s)
         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -33,7 +33,6 @@ export default function RootLayout({
         <noscript><img height="1" width="1" style="display:none"
         src="https://www.facebook.com/tr?id=2091366021789071&ev=PageView&noscript=1"
         /></noscript>
-        <!-- End Meta Pixel Code -->
       </head>
       <body className="flex min-h-full flex-col">
         <CartProvider>
